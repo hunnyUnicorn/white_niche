@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "3.0.1",
-  "homepage": "https://dev1ninja.github.io/personal-website",
+  "homepage": "https://hunnyUnicorn.github.io/white_niche",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dev1ninja/personal-website.git"
+    "url": "https://github.com/hunnyUnicorn/white_niche.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
