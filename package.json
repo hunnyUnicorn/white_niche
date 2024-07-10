@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "12.22.12"
+  },
   "name": "personal-site",
   "version": "3.0.1",
   "homepage": "https://dev1ninja.github.io/personal-website",
