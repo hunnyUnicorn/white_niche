@@ -1,0 +1,78 @@
+const positions = [
+  {
+    company: 'Stxtch',
+    position: 'Senior Full Stack Developer',
+    link: 'https://verizonpurposewall.com/ ',
+    daterange: 'July 2021 - Feburay 2022',
+    points: [
+      'Built website with Next.js + Tailwind CSS + Express.js + MySQL',
+      'Building stable and maintainable codebases using Git',
+      'Establish user-friendly websites, including optimized check-out page, resulting in a 25% increase in user clicks and subsequently 33% in customer purchases',
+      'Used Middleware, Redux-Promise in application to retrieve data from Back-End and to also perform RESTFUL services.',
+      'Keep the code quality high reviewing code from other developers and suggesting improvements',
+      'Interact with the designer to suggest changes and to make sure the view he has about the design is translated into actual functionality',
+    ],
+  },
+  {
+    company: 'Dataseed',
+    position: 'Web Crawler',
+    link: 'http://live.site.dataseed.de/',
+    daterange: 'March 2020 - July 2021',
+    points: [
+      'Built Microservices with Node.js + Apache Kafka + Docker',
+      'Worked in an Agile team of 12 full-stack developers',
+      'Created Web Crawlers(node.js microservice) to collect process informations using node.js',
+      'Used axios and cheerios modules to analyze the DOM elements',
+      'Bypassed the Recaptcha using the Bestcaptchasolver API',
+      'Used Promise for synchronization',
+      'Used Amazon S3 as a storage for static files like images and videos',
+      'Saved the json in Mongo Database',
+      'Refactored existing code base to grow code quality',
+      'Did Unit Test and integration test',
+    ],
+  },
+  {
+    company: 'Toolwire',
+    position: 'Front End Developer',
+    link: 'https://toolwire.com/',
+    daterange: 'July 2017 - November 2019',
+    points: [
+      'Worked in an Agile ơScrum) Development Team to deliver regular updates to product team and project managers.',
+      'Interact with QA guys to refactor the existing code base',
+      'Implemented various screens for the front end using Javascript, HTML, CSS and Bootstrap.',
+      'Implemented live chat for the group class room',
+      "Implemented new features based on user's feedback",
+      'Implemented various screens for the front-end.',
+    ],
+  },
+  {
+    company: 'Wunderman Technologies',
+    position: 'Web Front End Developer',
+    link: 'http://enveritas.org',
+    daterange: 'May 2016 - July 2017',
+    points: [
+      'Worked closely with product managers and designers to define a rich frontend experience.',
+      'Implemented various screens for the front end using React.js and used various predefined components from NPM and redux library',
+      'Explored new technologies and shared findings with the team',
+      'User Experience and User Interface design',
+      'Led the discovery phase of medium to large projects to come up with a high-level design',
+      'Created a Pop CSS editor for elements',
+      'Experience in RESTful web services to integrate between Server side to Client Side',
+    ],
+  },
+  {
+    company: 'Beat',
+    position: 'Junior Web Developer',
+    link: 'https://zenysis.com',
+    daterange: 'October 2015 - April 2016',
+    points: [
+      'Used React JS for templating for faster compilation and developing reusable components',
+      'Configured Webpack to execute linters, magnifiers, pre/postprocessors, tests, transpires, etc. based on build target',
+      'Utilized React for its efficient data flow architecture to create a lightweight and render efficient web app that searched projects via the GitHub API through keywords',
+      'Handled responsive design layouts for views',
+      'Developed software using RESTful APIs with Node.js and Express.js',
+    ],
+  },
+];
+
+export default positions;
